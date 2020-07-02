@@ -1,2 +1,7 @@
 Here are the steps to create a pull request:
 
+    From the open repository, click + in the global sidebar
+    and select Create a pull request under Get to work.
+    Fill out the rest of the pull request form. ...
+    Click Create pull request.
+
